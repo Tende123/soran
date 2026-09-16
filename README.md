@@ -71,7 +71,3 @@ GitHub: https://github.com/Tende123/soran
 
 ⚠️ Disclaimer
 For EDUCATIONAL purpose only.
-
-License
-MIT License
-EOF
